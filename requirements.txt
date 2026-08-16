@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+sentence-transformers
+chromadb
+groq
+langchain
+langgraph
+langchain-groq
+fastapi
+uvicorn
+python-dotenv
+mcp[cli]>=1.28.1,<2

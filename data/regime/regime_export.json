@@ -1,0 +1,12 @@
+{
+  "as_of_date": "2026-08-12",
+  "current_regime": "risk_off",
+  "regime_probability": 0.78,
+  "prior_regime": "transition",
+  "regime_since": "2026-07-20",
+  "key_indicators": {
+    "realized_vol": null,
+    "cvar_95": null
+  },
+  "exported_at": "2026-08-12T08:17:35.963842+00:00"
+}
